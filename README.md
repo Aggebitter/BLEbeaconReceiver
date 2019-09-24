@@ -5,7 +5,7 @@ Just a quick "stolen" and modifyed snippet that I used to get presence detection
 Baseded on:
 https://github.com/pcbreflux/espressif/tree/master/esp32/arduino/sketchbook/ESP32_BLE_beaconscan
 
-As BT, BLE and WiFi MAC-adresses nowdays är temporary and more and less random generated I needed a way to get the phones detected.
+As BT, BLE and WiFi MAC-adresses nowdays are temporary and more and less random generated I needed a way to get the phones detected.
 I've tryed diffrent BT,BLE and WiFi MAC scanners but why not turn it the other way? Create a BLE beacon at the Mobile phone side and
 detect that Beacon. Now we got a presence detection! that I can control. 
 
